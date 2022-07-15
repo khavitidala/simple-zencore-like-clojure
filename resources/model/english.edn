@@ -1,0 +1,306 @@
+[{:topic :english,
+  :bahas "Dalam bahasa inggris, pemanggang roti disebut toaster yaa.",
+  :soal
+  {:soal-text "Apa bahasa inggris pemanggang roti ?",
+   :options [[false "gas stove" 0] [false "flashlight" 1] [true "toaster" 2] [false "washing machine" 3]],
+   :jawaban "C"},
+  :problem-id "05abd57624824021b3eb00ddd35509e3"}
+ {:topic :english,
+  :bahas "Dalam bahasa inggris, senter disebut flashlight yaa.",
+  :soal
+  {:soal-text "Apa bahasa inggris senter ?",
+   :options [[false "gas stove" 0] [false "iron" 1] [true "flashlight" 2] [false "television" 3]],
+   :jawaban "C"},
+  :problem-id "cddd58e598244ad0bb6f88f028a9eb08"}
+ {:topic :english,
+  :bahas "Dalam bahasa inggris, kulkas disebut refrigerator yaa.",
+  :soal
+  {:soal-text "Apa bahasa inggris kulkas ?",
+   :options [[true "refrigerator" 0] [false "washing machine" 1] [false "gas stove" 2] [false "toaster" 3]],
+   :jawaban "A"},
+  :problem-id "719a0562bc794af9a8c21bf630123adf"}
+ {:topic :english,
+  :bahas "Dalam bahasa inggris, penanak nasi disebut rice cooker yaa.",
+  :soal
+  {:soal-text "Apa bahasa inggris penanak nasi ?",
+   :options [[false "refrigerator" 0] [false "iron" 1] [false "television" 2] [true "rice cooker" 3]],
+   :jawaban "D"},
+  :problem-id "ff9a4ac007c64d4794c7167c86162710"}
+ {:topic :english,
+  :bahas "Dalam bahasa inggris, penanak nasi disebut rice cooker yaa.",
+  :soal
+  {:soal-text "Apa bahasa inggris penanak nasi ?",
+   :options [[false "washing machine" 0] [true "rice cooker" 1] [false "washing machine" 2] [false "toaster" 3]],
+   :jawaban "B"},
+  :problem-id "6a140074a9204f679d87dd55bcc70cf3"}
+ {:topic :english,
+  :bahas "Dalam bahasa inggris, pemanggang roti disebut toaster yaa.",
+  :soal
+  {:soal-text "Apa bahasa inggris pemanggang roti ?",
+   :options [[true "toaster" 0] [false "washing machine" 1] [false "washing machine" 2] [false "flashlight" 3]],
+   :jawaban "A"},
+  :problem-id "bc559a0078554df3b4f8abe808510ce9"}
+ {:topic :english,
+  :bahas "Dalam bahasa inggris, kulkas disebut refrigerator yaa.",
+  :soal
+  {:soal-text "Apa bahasa inggris kulkas ?",
+   :options [[true "refrigerator" 0] [false "washing machine" 1] [false "washing machine" 2] [false "gas stove" 3]],
+   :jawaban "A"},
+  :problem-id "8dd2e90970b04631882a71a4a9e7d9c6"}
+ {:topic :english,
+  :bahas "Dalam bahasa inggris, pemanggang roti disebut toaster yaa.",
+  :soal
+  {:soal-text "Apa bahasa inggris pemanggang roti ?",
+   :options [[false "refrigerator" 0] [false "flashlight" 1] [true "toaster" 2] [false "washing machine" 3]],
+   :jawaban "C"},
+  :problem-id "eb776e8b74ed49c6aec4c3e98b60afc3"}
+ {:topic :english,
+  :pembahasan
+  "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Adit merupakan subject, uses merupakan verb, dan air cooler merupakan object. <br>\n Jadi, jawabanya adalah uses.\n",
+  :soal
+  {:soal-text "\n\nAdit uses air cooler <br>\n Dari sentence di atas, kira-kira yang mana verb - nya? \n</p>\n\n\n",
+   :options [[false "Adit" 0] [false "air cooler" 1] [true "uses" 2]],
+   :jawaban "C"},
+  :probelm-id "d1b453251efc43f88af469e37071fac7"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, he merupakan subject, uses merupakan verb, dan electric fan merupakan object. <br>\n Jadi, jawabanya adalah uses.\n",
+ :soal
+ {:soal-text "\n\nhe uses electric fan <br>\n Dari sentence di atas, kira-kira yang mana verb - nya? \n</p>\n\n\n",
+  :options [[false "electric fan" 0] [false "he" 1] [true "uses" 2]],
+  :jawaban "C"},
+ :probelm-id "f10a3b66adb94dd3afed26f4a81c3493"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Leni merupakan subject, uses merupakan verb, dan electric fan merupakan object. <br>\n Jadi, jawabanya adalah uses.\n",
+ :soal
+ {:soal-text "\n\nLeni uses electric fan <br>\n Dari sentence di atas, kira-kira yang mana verb - nya? \n</p>\n\n\n",
+  :options [[true "uses" 0] [false "electric fan" 1] [false "Leni" 2]],
+  :jawaban "A"},
+ :probelm-id "6be27ccb08fd4ce68a57a59947e8aa38"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Leo merupakan subject, sells merupakan verb, dan washing machine merupakan object. <br>\n Jadi, jawabanya adalah sells.\n",
+ :soal
+ {:soal-text
+  "\n\nLeo sells washing machine <br>\n Dari sentence di atas, kira-kira yang mana verb - nya? \n</p>\n\n\n",
+  :options [[false "washing machine" 0] [false "Leo" 1] [true "sells" 2]],
+  :jawaban "C"},
+ :probelm-id "2d730053245441aa93d48c773a06be7f"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Tio merupakan subject, sees merupakan verb, dan electric fan merupakan object. <br>\n Jadi, jawabanya adalah sees.\n",
+ :soal
+ {:soal-text "\n\nTio sees electric fan <br>\n Dari sentence di atas, kira-kira yang mana verb - nya? \n</p>\n\n\n",
+  :options [[false "Tio" 0] [false "electric fan" 1] [true "sees" 2]],
+  :jawaban "C"},
+ :probelm-id "bbe6e24a975847babd86b237c2944af6"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, she merupakan subject, uses merupakan verb, dan air cooler merupakan object. <br>\n Jadi, jawabanya adalah uses.\n",
+ :soal
+ {:soal-text "\n\nshe uses air cooler <br>\n Dari sentence di atas, kira-kira yang mana verb - nya? \n</p>\n\n\n",
+  :options [[false "she" 0] [false "air cooler" 1] [true "uses" 2]],
+  :jawaban "C"},
+ :probelm-id "dcc9af1695154c77aea3267ea77dfbe5"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Arya merupakan subject, brings merupakan verb, dan iron merupakan object. <br>\n Jadi, jawabanya adalah brings.\n",
+ :soal
+ {:soal-text "\n\nArya brings iron <br>\n Dari sentence di atas, kira-kira yang mana verb - nya? \n</p>\n\n\n",
+  :options [[true "brings" 0] [false "Arya" 1] [false "iron" 2]],
+  :jawaban "A"},
+ :probelm-id "c3ab00e3ec364900b89fe44e8f84393b"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Arya merupakan subject, has merupakan verb, dan iron merupakan object. <br>\n Jadi, jawabanya adalah has.\n",
+ :soal
+ {:soal-text "\n\nArya has iron <br>\n Dari sentence di atas, kira-kira yang mana verb - nya? \n</p>\n\n\n",
+  :options [[false "iron" 0] [false "Arya" 1] [true "has" 2]],
+  :jawaban "C"},
+ :probelm-id "f4c20a3be591485cb4bb78137e67353f"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Adit merupakan subject, uses merupakan verb, dan electric stove merupakan object. <br>\n Jadi, jawabanya adalah uses.\n",
+ :soal
+ {:soal-text
+  "\n\nAdit uses electric stove <br>\n Dari sentence di atas, kira-kira yang mana verb - nya? \n</p>\n\n\n",
+  :options [[false "Adit" 0] [false "electric stove" 1] [true "uses" 2]],
+  :jawaban "C"},
+ :probelm-id "01dd340823d14634a11fc79dc2f15741"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Jose merupakan subject, brings merupakan verb, dan washing machine merupakan object. <br>\n Jadi, jawabanya adalah brings.\n",
+ :soal
+ {:soal-text
+  "\n\nJose brings washing machine <br>\n Dari sentence di atas, kira-kira yang mana verb - nya? \n</p>\n\n\n",
+  :options [[false "washing machine" 0] [false "Jose" 1] [true "brings" 2]],
+  :jawaban "C"},
+ :probelm-id "975b1a542342429aa5f7197055b9fcdf"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Tono merupakan subject, sells merupakan verb, dan stove merupakan object. <br>\n Jadi, jawabanya adalah stove.\n",
+ :soal
+ {:soal-text "\n\nTono sells stove <br>\n Dari sentence di atas, kira-kira yang mana object-nya? \n</p>\n\n\n",
+  :options [[true "stove" 0] [false "Tono" 1] [false "sells" 2]],
+  :jawaban "A"},
+ :probelm-id "10b8244c09c04377acb4e3a3d6b0024d"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Messi merupakan subject, has merupakan verb, dan hair dryer merupakan object. <br>\n Jadi, jawabanya adalah hair dryer.\n",
+ :soal
+ {:soal-text "\n\nMessi has hair dryer <br>\n Dari sentence di atas, kira-kira yang mana object-nya? \n</p>\n\n\n",
+  :options [[false "has" 0] [false "Messi" 1] [true "hair dryer" 2]],
+  :jawaban "C"},
+ :probelm-id "b02311bda80547658da5c98f58c3fcb5"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Tono merupakan subject, sees merupakan verb, dan television merupakan object. <br>\n Jadi, jawabanya adalah television.\n",
+ :soal
+ {:soal-text "\n\nTono sees television <br>\n Dari sentence di atas, kira-kira yang mana object-nya? \n</p>\n\n\n",
+  :options [[true "television" 0] [false "sees" 1] [false "Tono" 2]],
+  :jawaban "A"},
+ :probelm-id "2da18b186d864146b766c328d7a4a28e"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Aryo merupakan subject, uses merupakan verb, dan water purifier merupakan object. <br>\n Jadi, jawabanya adalah water purifier.\n",
+ :soal
+ {:soal-text
+  "\n\nAryo uses water purifier <br>\n Dari sentence di atas, kira-kira yang mana object-nya? \n</p>\n\n\n",
+  :options [[true "water purifier" 0] [false "Aryo" 1] [false "uses" 2]],
+  :jawaban "A"},
+ :probelm-id "ee1fcec7134a4e77bd0f738b22be1afe"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Aryo merupakan subject, has merupakan verb, dan hair dryer merupakan object. <br>\n Jadi, jawabanya adalah hair dryer.\n",
+ :soal
+ {:soal-text "\n\nAryo has hair dryer <br>\n Dari sentence di atas, kira-kira yang mana object-nya? \n</p>\n\n\n",
+  :options [[false "Aryo" 0] [false "has" 1] [true "hair dryer" 2]],
+  :jawaban "C"},
+ :probelm-id "1e03a2bd6ed64ab0bbd1f0f28cf6600d"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, she merupakan subject, brings merupakan verb, dan water purifier merupakan object. <br>\n Jadi, jawabanya adalah water purifier.\n",
+ :soal
+ {:soal-text
+  "\n\nshe brings water purifier <br>\n Dari sentence di atas, kira-kira yang mana object-nya? \n</p>\n\n\n",
+  :options [[false "brings" 0] [false "she" 1] [true "water purifier" 2]],
+  :jawaban "C"},
+ :probelm-id "5a6a8c9508414537a038f2f73a7d5b95"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Tio merupakan subject, sells merupakan verb, dan toaster merupakan object. <br>\n Jadi, jawabanya adalah toaster.\n",
+ :soal
+ {:soal-text "\n\nTio sells toaster <br>\n Dari sentence di atas, kira-kira yang mana object-nya? \n</p>\n\n\n",
+  :options [[false "Tio" 0] [false "sells" 1] [true "toaster" 2]],
+  :jawaban "C"},
+ :probelm-id "a65ce8c037cb444fafe844c55fae4b90"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Messi merupakan subject, buys merupakan verb, dan hair dryer merupakan object. <br>\n Jadi, jawabanya adalah hair dryer.\n",
+ :soal
+ {:soal-text "\n\nMessi buys hair dryer <br>\n Dari sentence di atas, kira-kira yang mana object-nya? \n</p>\n\n\n",
+  :options [[false "buys" 0] [false "Messi" 1] [true "hair dryer" 2]],
+  :jawaban "C"},
+ :probelm-id "0fe0db857283474cb4ae897ebea574da"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, she merupakan subject, sees merupakan verb, dan television merupakan object. <br>\n Jadi, jawabanya adalah television.\n",
+ :soal
+ {:soal-text "\n\nshe sees television <br>\n Dari sentence di atas, kira-kira yang mana object-nya? \n</p>\n\n\n",
+  :options [[true "television" 0] [false "she" 1] [false "sees" 2]],
+  :jawaban "A"},
+ :probelm-id "2bb242b04b1a453aa5aa87bc81ca81f8"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, she merupakan subject, uses merupakan verb, dan iron merupakan object. <br>\n Jadi, jawabanya adalah iron.\n",
+ :soal
+ {:soal-text "\n\nshe uses iron <br>\n Dari sentence di atas, kira-kira yang mana object-nya? \n</p>\n\n\n",
+  :options [[false "she" 0] [true "iron" 1] [false "uses" 2]],
+  :jawaban "B"},
+ :probelm-id "ddcb3647caad450fb1370675f7854d65"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, she merupakan subject, brings merupakan verb, dan toaster merupakan object. <br>\n Jadi, jawabanya adalah she.\n",
+ :soal
+ {:soal-text "\n\nshe brings toaster <br>\n Dari sentence di atas, kira-kira yang mana subject-nya? \n</p>\n\n\n",
+  :options [[true "she" 0] [false "brings" 1] [false "toaster" 2]],
+  :jawaban "A"},
+ :probelm-id "ba6d877a1cc44478842477a4089ed0cc"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Aulia merupakan subject, sees merupakan verb, dan kettle merupakan object. <br>\n Jadi, jawabanya adalah Aulia.\n",
+ :soal
+ {:soal-text "\n\nAulia sees kettle <br>\n Dari sentence di atas, kira-kira yang mana subject-nya? \n</p>\n\n\n",
+  :options [[false "kettle" 0] [false "sees" 1] [true "Aulia" 2]],
+  :jawaban "C"},
+ :probelm-id "bbb5f22e82b04b428621e9e790ef5069"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Aryo merupakan subject, brings merupakan verb, dan oven/grill/roaster merupakan object. <br>\n Jadi, jawabanya adalah Aryo.\n",
+ :soal
+ {:soal-text
+  "\n\nAryo brings oven/grill/roaster <br>\n Dari sentence di atas, kira-kira yang mana subject-nya? \n</p>\n\n\n",
+  :options [[false "brings" 0] [true "Aryo" 1] [false "oven/grill/roaster" 2]],
+  :jawaban "B"},
+ :probelm-id "35be416d295f48b3a940505a24d83695"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Aryo merupakan subject, brings merupakan verb, dan refrigerator merupakan object. <br>\n Jadi, jawabanya adalah Aryo.\n",
+ :soal
+ {:soal-text
+  "\n\nAryo brings refrigerator <br>\n Dari sentence di atas, kira-kira yang mana subject-nya? \n</p>\n\n\n",
+  :options [[true "Aryo" 0] [false "brings" 1] [false "refrigerator" 2]],
+  :jawaban "A"},
+ :probelm-id "34cd2413fb5e444e85c4266917bccc92"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Joni merupakan subject, sees merupakan verb, dan speaker merupakan object. <br>\n Jadi, jawabanya adalah Joni.\n",
+ :soal
+ {:soal-text "\n\nJoni sees speaker <br>\n Dari sentence di atas, kira-kira yang mana subject-nya? \n</p>\n\n\n",
+  :options [[true "Joni" 0] [false "sees" 1] [false "speaker" 2]],
+  :jawaban "A"},
+ :probelm-id "b2caa905738f4d17915570fcbcbad0f3"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Aryo merupakan subject, uses merupakan verb, dan air conditioner merupakan object. <br>\n Jadi, jawabanya adalah Aryo.\n",
+ :soal
+ {:soal-text
+  "\n\nAryo uses air conditioner <br>\n Dari sentence di atas, kira-kira yang mana subject-nya? \n</p>\n\n\n",
+  :options [[true "Aryo" 0] [false "uses" 1] [false "air conditioner" 2]],
+  :jawaban "A"},
+ :probelm-id "eb8ec284800b43219f35a8ba7d3c3e2a"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Messi merupakan subject, uses merupakan verb, dan gas stove merupakan object. <br>\n Jadi, jawabanya adalah Messi.\n",
+ :soal
+ {:soal-text "\n\nMessi uses gas stove <br>\n Dari sentence di atas, kira-kira yang mana subject-nya? \n</p>\n\n\n",
+  :options [[false "uses" 0] [false "gas stove" 1] [true "Messi" 2]],
+  :jawaban "C"},
+ :probelm-id "8a257755a82242eca3612ce69caf3d04"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Tio merupakan subject, has merupakan verb, dan water purifier merupakan object. <br>\n Jadi, jawabanya adalah Tio.\n",
+ :soal
+ {:soal-text "\n\nTio has water purifier <br>\n Dari sentence di atas, kira-kira yang mana subject-nya? \n</p>\n\n\n",
+  :options [[false "water purifier" 0] [false "has" 1] [true "Tio" 2]],
+  :jawaban "C"},
+ :probelm-id "9bffe27e796c4d77a8f71d1d423764c6"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Ahmad merupakan subject, sees merupakan verb, dan refrigerator merupakan object. <br>\n Jadi, jawabanya adalah Ahmad.\n",
+ :soal
+ {:soal-text
+  "\n\nAhmad sees refrigerator <br>\n Dari sentence di atas, kira-kira yang mana subject-nya? \n</p>\n\n\n",
+  :options [[true "Ahmad" 0] [false "refrigerator" 1] [false "sees" 2]],
+  :jawaban "A"},
+ :probelm-id "8ed05bc6b6474506996547b15eea043b"}
+{:topic :english,
+ :pembahasan
+ "\n\nKalimat yang ada di soal merupakan kalimat yang menggunakan simple present tense. <br>\n Dimana, pada tense ini, Leo merupakan subject, brings merupakan verb, dan refrigerator merupakan object. <br>\n Jadi, jawabanya adalah Leo.\n",
+ :soal
+ {:soal-text
+  "\n\nLeo brings refrigerator <br>\n Dari sentence di atas, kira-kira yang mana subject-nya? \n</p>\n\n\n",
+  :options [[false "brings" 0] [false "refrigerator" 1] [true "Leo" 2]],
+  :jawaban "C"},
+ :probelm-id "b3069732c2ae459e8c32aff2886c951f"}]

@@ -1,0 +1,395 @@
+[{:topic :verbal-logic,
+  :bahas "Kata benda konkret adalah kata benda yang dapat ditangkap panca indera, sedangkan kata benda abstrak tidak.",
+  :soal
+  {:soal-text "killua jual bakiak dengan emak. killua ialah kata...",
+   :options [[false "kata benda abstrak." 0] [true "kata benda konkret." 1] [false "bukan kata benda." 2]],
+   :jawaban "B"},
+  :problem-id "508dbd21047448a5ab38dd404b68506b"}
+ {:topic :verbal-logic,
+  :bahas "Kata benda konkret adalah kata benda yang dapat ditangkap panca indera, sedangkan kata benda abstrak tidak.",
+  :soal
+  {:soal-text "levi beli bakiak untuk kakak. levi adalah kata...",
+   :options [[false "bukan kata benda." 0] [true "kata benda konkret." 1] [false "kata benda abstrak." 2]],
+   :jawaban "B"},
+  :problem-id "85ff1bd9cbf24b798e1dbe9752c97587"}
+ {:topic :verbal-logic,
+  :bahas "Kata benda konkret adalah kata benda yang dapat ditangkap panca indera, sedangkan kata benda abstrak tidak.",
+  :soal
+  {:soal-text "eren jual sajadah bersama babeh. eren ialah kata...",
+   :options [[false "kata benda abstrak." 0] [false "bukan kata benda." 1] [true "kata benda konkret." 2]],
+   :jawaban "C"},
+  :problem-id "e76f32d85780492f86046cd958e61883"}
+ {:topic :verbal-logic,
+  :bahas "Kata benda konkret adalah kata benda yang dapat ditangkap panca indera, sedangkan kata benda abstrak tidak.",
+  :soal
+  {:soal-text "gon jual sajadah dengan emak. gon merupakan kata...",
+   :options [[false "kata benda abstrak." 0] [false "bukan kata benda." 1] [true "kata benda konkret." 2]],
+   :jawaban "C"},
+  :problem-id "fb8ef4fc50214da1a54c26366566ddb1"}
+ {:topic :verbal-logic,
+  :bahas "Kata benda konkret adalah kata benda yang dapat ditangkap panca indera, sedangkan kata benda abstrak tidak.",
+  :soal
+  {:soal-text "killua beli sajadah bareng babeh. killua adalah kata...",
+   :options [[false "bukan kata benda." 0] [false "kata benda abstrak." 1] [true "kata benda konkret." 2]],
+   :jawaban "C"},
+  :problem-id "9c2fca6995fb4e18b887294de1001b9a"}
+ {:topic :verbal-logic,
+  :bahas
+  "Pernyataan itukan kalimat yang bernilai benar atau salah. jadi kalau suatu itu bukan kalimat, ya bukan pernyataan yaaa. Kalimat itu minimal ada predikat dan subjek, kalau frasa itu menempati satu posisi aja, misalnya subjek, jadi bukan kalimat.",
+  :soal
+  {:soal-text "handphone mahal.  bentuk di atas adalah...",
+   :options [[false "pernyataan." 0] [true "nonpernyataan." 1]],
+   :jawaban "B"},
+  :problem-id "8f1a216f7adc498f8a1c2ea326ace659"}
+ {:topic :verbal-logic,
+  :bahas
+  "Pernyataan itukan kalimat yang bernilai benar atau salah. jadi kalau suatu itu bukan kalimat, ya bukan pernyataan yaaa. Kalimat itu minimal ada predikat dan subjek, kalau frasa itu menempati satu posisi aja, misalnya subjek, jadi bukan kalimat.",
+  :soal
+  {:soal-text "laptop mewah.  bentuk di atas adalah...",
+   :options [[true "nonpernyataan." 0] [false "pernyataan." 1]],
+   :jawaban "A"},
+  :problem-id "ba351711d5ce4a57bc0cf7bc6b96f1aa"}
+ {:topic :verbal-logic,
+  :bahas
+  "Pernyataan itukan kalimat yang bernilai benar atau salah. jadi kalau suatu itu bukan kalimat, ya bukan pernyataan yaaa. Kalimat itu minimal ada predikat dan subjek, kalau frasa itu menempati satu posisi aja, misalnya subjek, jadi bukan kalimat.",
+  :soal
+  {:soal-text "handphone mahal.  bentuk di atas adalah...",
+   :options [[false "pernyataan." 0] [true "nonpernyataan." 1]],
+   :jawaban "B"},
+  :problem-id "c360d0ca509b4b05a925cfc8ca11edbb"}
+ {:topic :verbal-logic,
+  :bahas
+  "Pernyataan itukan kalimat yang bernilai benar atau salah. jadi kalau suatu itu bukan kalimat, ya bukan pernyataan yaaa. Kalimat itu minimal ada predikat dan subjek, kalau frasa itu menempati satu posisi aja, misalnya subjek, jadi bukan kalimat.",
+  :soal
+  {:soal-text "laptop mewah.  bentuk di atas adalah...",
+   :options [[false "pernyataan." 0] [true "nonpernyataan." 1]],
+   :jawaban "B"},
+  :problem-id "38cf98fbb80b46ffb98fad63d9e4bd2a"}
+ {:topic :verbal-logic,
+  :bahas
+  "Pernyataan itukan kalimat yang bernilai benar atau salah. jadi kalau suatu itu bukan kalimat, ya bukan pernyataan yaaa. Kalimat itu minimal ada predikat dan subjek, kalau frasa itu menempati satu posisi aja, misalnya subjek, jadi bukan kalimat.",
+  :soal
+  {:soal-text "laptop mahal.  bentuk di atas yaitu...",
+   :options [[false "pernyataan." 0] [true "nonpernyataan." 1]],
+   :jawaban "B"},
+  :problem-id "a93d171db21d42a0bfffc65368b6138f"}
+ {:topic :verbal-logic,
+  :bahas
+  "Pernyataan itukan kalimat yang bernilai benar atau salah. jadi kalau suatu itu bukan kalimat, ya bukan pernyataan yaaa. Kalimat itu minimal ada predikat dan subjek, kalau frasa itu menempati satu posisi aja, misalnya subjek, jadi bukan kalimat.",
+  :soal
+  {:soal-text "lukisan hitam.  bentuk di atas adalah...",
+   :options [[false "pernyataan." 0] [true "nonpernyataan." 1]],
+   :jawaban "B"},
+  :problem-id "af695149f3824b919446323b22f5e67d"}
+ {:topic :verbal-logic,
+  :bahas
+  "Pernyataan itukan kalimat yang bernilai benar atau salah. jadi kalau suatu itu bukan kalimat, ya bukan pernyataan yaaa. Kalimat itu minimal ada predikat dan subjek, kalau frasa itu menempati satu posisi aja, misalnya subjek, jadi bukan kalimat.",
+  :soal
+  {:soal-text "rumah mewah.  bentuk di atas adalah...",
+   :options [[false "pernyataan." 0] [true "nonpernyataan." 1]],
+   :jawaban "B"},
+  :problem-id "752f51cdffee4b7cb9d24bf8a89c15ea"}
+ {:topic :verbal-logic,
+  :bahas
+  "Pernyataan itukan kalimat yang bernilai benar atau salah. jadi kalau suatu itu bukan kalimat, ya bukan pernyataan yaaa. Kalimat itu minimal ada predikat dan subjek, kalau frasa itu menempati satu posisi aja, misalnya subjek, jadi bukan kalimat.",
+  :soal
+  {:soal-text "laptop mahal.  bentuk di atas adalah...",
+   :options [[false "pernyataan." 0] [true "nonpernyataan." 1]],
+   :jawaban "B"},
+  :problem-id "f4eeb3edd75a4d0dbdfd8d65c908d381"}
+ {:topic :verbal-logic,
+  :bahas
+  "Pernyataan itukan kalimat yang bernilai benar atau salah. jadi kalau suatu itu bukan kalimat, ya bukan pernyataan yaaa. Kalimat itu minimal ada predikat dan subjek, kalau frasa itu menempati satu posisi aja, misalnya subjek, jadi bukan kalimat.",
+  :soal
+  {:soal-text "lukisan kotor.  bentuk di atas adalah...",
+   :options [[false "pernyataan." 0] [true "nonpernyataan." 1]],
+   :jawaban "B"},
+  :problem-id "f877f5519f4746ce9907c7cf3c1050e8"}
+ {:topic :verbal-logic,
+  :bahas
+  "Pernyataan itukan kalimat yang bernilai benar atau salah. jadi kalau suatu itu bukan kalimat, ya bukan pernyataan yaaa. Kalimat itu minimal ada predikat dan subjek, kalau frasa itu menempati satu posisi aja, misalnya subjek, jadi bukan kalimat.",
+  :soal
+  {:soal-text "handphone hitam.  bentuk di atas adalah...",
+   :options [[true "nonpernyataan." 0] [false "pernyataan." 1]],
+   :jawaban "A"},
+  :problem-id "98007d11eb284229bbc80627fcabf1f5"}
+ {:topic :verbal-logic,
+  :bahas "Gampang aja, perhatikan susunan kalimatnya ya. ",
+  :soal
+  {:soal-text
+   "Joni adalah seorang montir, jadi Joni itu orang yang terampil. Kalimat manakah yang diperlukan untuk melengkapi argumen?",
+   :options
+   [[true "semua montir itu orang yang terampil." 0]
+    [false "sebagian montir itu orang yang terampil." 1]
+    [false "sebagian orang yang terampil itu montir." 2]
+    [false "argumen sudah lengkap" 3]],
+   :jawaban "A"},
+  :problem-id "5ad74d4ad2cf446e98f16b0d8991f3bb"}
+ {:topic :verbal-logic,
+  :bahas "Gampang aja, perhatikan susunan kalimatnya ya. ",
+  :soal
+  {:soal-text
+   "Aulia adalah seorang supir, jadi Aulia itu orang yang punya uang. Kalimat manakah yang diperlukan untuk melengkapi argumen?",
+   :options
+   [[true "semua supir itu orang yang punya uang." 0]
+    [false "argumen sudah lengkap" 1]
+    [false "sebagian orang yang punya uang itu supir." 2]
+    [false "sebagian supir itu orang yang punya uang." 3]],
+   :jawaban "A"},
+  :problem-id "5f8d7fade28d4845887f8d3798626e4c"}
+ {:topic :verbal-logic,
+  :bahas "Gampang aja, perhatikan susunan kalimatnya ya. ",
+  :soal
+  {:soal-text
+   "Rachel adalah seorang nelayan, jadi Rachel itu orang yang berkecukupan. Kalimat manakah yang diperlukan untuk melengkapi argumen?",
+   :options
+   [[false "argumen sudah lengkap" 0]
+    [false "sebagian orang yang berkecukupan itu nelayan." 1]
+    [true "semua nelayan itu orang yang berkecukupan." 2]
+    [false "sebagian nelayan itu orang yang berkecukupan." 3]],
+   :jawaban "C"},
+  :problem-id "8db4fa69c57a4e3ba3e66afb09d0c7dd"}
+ {:topic :verbal-logic,
+  :bahas "Gampang aja, perhatikan susunan kalimatnya ya. ",
+  :soal
+  {:soal-text
+   "Aulia adalah seorang ayah, jadi Aulia itu orang yang berkecukupan. Untuk melengkapi argumen, kalimat mana yang diperlukan?",
+   :options
+   [[false "argumen sudah lengkap" 0]
+    [false "sebagian ayah itu orang yang berkecukupan." 1]
+    [false "sebagian orang yang berkecukupan itu ayah." 2]
+    [true "semua ayah itu orang yang berkecukupan." 3]],
+   :jawaban "D"},
+  :problem-id "00052efd4e5846da866061b110055f7f"}
+ {:topic :verbal-logic,
+  :bahas "Gampang aja, perhatikan susunan kalimatnya ya. ",
+  :soal
+  {:soal-text
+   "Leo adalah seorang ayah, jadi Leo itu orang yang terampil. Untuk melengkapi argumen, kalimat mana yang diperlukan?",
+   :options
+   [[false "argumen sudah lengkap" 0]
+    [true "semua ayah itu orang yang terampil." 1]
+    [false "sebagian orang yang terampil itu ayah." 2]
+    [false "sebagian ayah itu orang yang terampil." 3]],
+   :jawaban "B"},
+  :problem-id "8c35597aefb242a8b5bdd4d34cac9ab3"}
+ {:topic :verbal-logic,
+  :pembahasan
+  "\n\nPernyataan itukan kalimat yang bernilai benar atau salah. <br>\n Jadi kalo sesuatu itu bukan kalimat, ya bukan pernyataan yaaaa. <br>\n Kalimat itu minimal ada subjek dan predikat, kalau frasa itu menempati satu posisi aja (misal subjek aja), jadi bukan kalimat. \n",
+  :soal
+  {:soal-text "\n\nRumah bagus <br>\n Bentuk di atas merupakan ... \n</p>\n\n\n",
+   :options [[false "pertanyaan" 0] [true "non pertanyaan" 1]],
+   :jawaban "B"},
+  :probelm-id "0e87087a2c5b4af596108d1d0dae95d9"}
+{:topic :verbal-logic,
+ :pembahasan
+ "\n\nPernyataan itukan kalimat yang bernilai benar atau salah. <br>\n Jadi kalo sesuatu itu bukan kalimat, ya bukan pernyataan yaaaa. <br>\n Kalimat itu minimal ada subjek dan predikat, kalau frasa itu menempati satu posisi aja (misal subjek aja), jadi bukan kalimat. \n",
+ :soal
+ {:soal-text "\n\nSandal rusak <br>\n Bentuk di atas merupakan ... \n</p>\n\n\n",
+  :options [[false "pertanyaan" 0] [true "non pertanyaan" 1]],
+  :jawaban "B"},
+ :probelm-id "f3a35aa1fefa4e30b962dbfb1bd67f67"}
+{:topic :verbal-logic,
+ :pembahasan
+ "\n\nPernyataan itukan kalimat yang bernilai benar atau salah. <br>\n Jadi kalo sesuatu itu bukan kalimat, ya bukan pernyataan yaaaa. <br>\n Kalimat itu minimal ada subjek dan predikat, kalau frasa itu menempati satu posisi aja (misal subjek aja), jadi bukan kalimat. \n",
+ :soal
+ {:soal-text "\n\nLantai rusak <br>\n Bentuk di atas merupakan ... \n</p>\n\n\n",
+  :options [[true "non pertanyaan" 0] [false "pertanyaan" 1]],
+  :jawaban "A"},
+ :probelm-id "0670d13740ef42cca699d40f1308670b"}
+{:topic :verbal-logic,
+ :pembahasan
+ "\n\nPernyataan itukan kalimat yang bernilai benar atau salah. <br>\n Jadi kalo sesuatu itu bukan kalimat, ya bukan pernyataan yaaaa. <br>\n Kalimat itu minimal ada subjek dan predikat, kalau frasa itu menempati satu posisi aja (misal subjek aja), jadi bukan kalimat. \n",
+ :soal
+ {:soal-text "\n\nKamera mahal <br>\n Bentuk di atas merupakan ... \n</p>\n\n\n",
+  :options [[false "pertanyaan" 0] [true "non pertanyaan" 1]],
+  :jawaban "B"},
+ :probelm-id "e492b2fee09d4792a8295ddc67c2fe8f"}
+{:topic :verbal-logic,
+ :pembahasan
+ "\n\nPernyataan itukan kalimat yang bernilai benar atau salah. <br>\n Jadi kalo sesuatu itu bukan kalimat, ya bukan pernyataan yaaaa. <br>\n Kalimat itu minimal ada subjek dan predikat, kalau frasa itu menempati satu posisi aja (misal subjek aja), jadi bukan kalimat. \n",
+ :soal
+ {:soal-text "\n\nRumah hitam <br>\n Bentuk di atas merupakan ... \n</p>\n\n\n",
+  :options [[false "pertanyaan" 0] [true "non pertanyaan" 1]],
+  :jawaban "B"},
+ :probelm-id "1033099ec54d47d1a561bfcf9ab10023"}
+{:topic :verbal-logic,
+ :pembahasan
+ "\n\nPernyataan itukan kalimat yang bernilai benar atau salah. <br>\n Jadi kalo sesuatu itu bukan kalimat, ya bukan pernyataan yaaaa. <br>\n Kalimat itu minimal ada subjek dan predikat, kalau frasa itu menempati satu posisi aja (misal subjek aja), jadi bukan kalimat. \n",
+ :soal
+ {:soal-text "\n\nLaptop berantakan <br>\n Bentuk di atas merupakan ... \n</p>\n\n\n",
+  :options [[true "non pertanyaan" 0] [false "pertanyaan" 1]],
+  :jawaban "A"},
+ :probelm-id "2d4b26532f494d538341e60d879c1c3d"}
+{:topic :verbal-logic,
+ :pembahasan
+ "\n\nPernyataan itukan kalimat yang bernilai benar atau salah. <br>\n Jadi kalo sesuatu itu bukan kalimat, ya bukan pernyataan yaaaa. <br>\n Kalimat itu minimal ada subjek dan predikat, kalau frasa itu menempati satu posisi aja (misal subjek aja), jadi bukan kalimat. \n",
+ :soal
+ {:soal-text "\n\nMajalah baru <br>\n Bentuk di atas merupakan ... \n</p>\n\n\n",
+  :options [[false "pertanyaan" 0] [true "non pertanyaan" 1]],
+  :jawaban "B"},
+ :probelm-id "9364d184363d4209a8430e2ffd049f45"}
+{:topic :verbal-logic,
+ :pembahasan
+ "\n\nPernyataan itukan kalimat yang bernilai benar atau salah. <br>\n Jadi kalo sesuatu itu bukan kalimat, ya bukan pernyataan yaaaa. <br>\n Kalimat itu minimal ada subjek dan predikat, kalau frasa itu menempati satu posisi aja (misal subjek aja), jadi bukan kalimat. \n",
+ :soal
+ {:soal-text "\n\nRumah kusam <br>\n Bentuk di atas merupakan ... \n</p>\n\n\n",
+  :options [[false "pertanyaan" 0] [true "non pertanyaan" 1]],
+  :jawaban "B"},
+ :probelm-id "e86cf30abb9647c1a8f3ec3a7b49a9f4"}
+{:topic :verbal-logic,
+ :pembahasan
+ "\n\nPernyataan itukan kalimat yang bernilai benar atau salah. <br>\n Jadi kalo sesuatu itu bukan kalimat, ya bukan pernyataan yaaaa. <br>\n Kalimat itu minimal ada subjek dan predikat, kalau frasa itu menempati satu posisi aja (misal subjek aja), jadi bukan kalimat. \n",
+ :soal
+ {:soal-text "\n\nBaju mewah <br>\n Bentuk di atas merupakan ... \n</p>\n\n\n",
+  :options [[true "non pertanyaan" 0] [false "pertanyaan" 1]],
+  :jawaban "A"},
+ :probelm-id "9415c648f06c423cb3d1bdcbc1f3100f"}
+{:topic :verbal-logic,
+ :pembahasan
+ "\n\nPernyataan itukan kalimat yang bernilai benar atau salah. <br>\n Jadi kalo sesuatu itu bukan kalimat, ya bukan pernyataan yaaaa. <br>\n Kalimat itu minimal ada subjek dan predikat, kalau frasa itu menempati satu posisi aja (misal subjek aja), jadi bukan kalimat. \n",
+ :soal
+ {:soal-text "\n\nCermin putih <br>\n Bentuk di atas merupakan ... \n</p>\n\n\n",
+  :options [[true "non pertanyaan" 0] [false "pertanyaan" 1]],
+  :jawaban "A"},
+ :probelm-id "dd485124d2ea45d8abfcd3ac0d01f149"}
+{:topic :verbal-logic,
+ :pembahasan
+ "\n\nArgumen ini tuh ga lengkap. Kenapa? <br>\n Soalnya ada hal yang gak disebutin, dengan anggapan 'ah kamu pasti ngerti' atau 'ah semua orang pasti tau lah', <br>\n padahal ga boleh gitu, karena jadinya asumsi. <br>\n Makanya perlu dilengkapin. Nio adalah seorang ayah, jadi Nio orang yang berpengalaman. <br>\n Berarti pertama kalian tau kalo Nio itu ayah, <br>\n terus apa bisa langsung ambil kesimpulan Nio itu orang yang berpengalaman? <br>\n Gak bisa ya, kurang infonya. Kalian harus tambahin apa nih? <br>\n Tambahin hubungan ayah sama orang yang berpengalaman, terus tinggal pilih hubungan ayah sama orang yang berpengalaman mana, <br>\n yang bikin kesimpulan Nio itu orang yang berpengalaman jadi bener dan tidak tergoyahkan deh intinya. Gitu ya, selamat mencoba~ \n",
+ :soal
+ {:soal-text
+  "\n\nNio adalah seorang ayah, jadi Nio itu orang yang berpengalaman <br>\n Kalimat mana yang diperlukan untuk melengkapi argumen? \n</p>\n\n\n",
+  :options
+  [[false "sebagian orang yang berpengalaman itu ayah. " 0]
+   [false "Argumen sudah lengkap." 1]
+   [false "semua orang yang berpengalaman itu ayah. " 2]
+   [false "sebagian ayah itu orang yang berpengalaman. " 3]
+   [true "semua ayah itu orang yang berpengalaman. " 4]],
+  :jawaban "E"},
+ :probelm-id "7e107ccb2d234da19e8ead0e216c19ed"}
+{:topic :verbal-logic,
+ :pembahasan
+ "\n\nArgumen ini tuh ga lengkap. Kenapa? <br>\n Soalnya ada hal yang gak disebutin, dengan anggapan 'ah kamu pasti ngerti' atau 'ah semua orang pasti tau lah', <br>\n padahal ga boleh gitu, karena jadinya asumsi. <br>\n Makanya perlu dilengkapin. Jose adalah seorang pengangkat galon, jadi Jose orang yang berkecukupan. <br>\n Berarti pertama kalian tau kalo Jose itu pengangkat galon, <br>\n terus apa bisa langsung ambil kesimpulan Jose itu orang yang berkecukupan? <br>\n Gak bisa ya, kurang infonya. Kalian harus tambahin apa nih? <br>\n Tambahin hubungan pengangkat galon sama orang yang berkecukupan, terus tinggal pilih hubungan pengangkat galon sama orang yang berkecukupan mana, <br>\n yang bikin kesimpulan Jose itu orang yang berkecukupan jadi bener dan tidak tergoyahkan deh intinya. Gitu ya, selamat mencoba~ \n",
+ :soal
+ {:soal-text
+  "\n\nJose adalah seorang pengangkat galon, jadi Jose itu orang yang berkecukupan <br>\n Kalimat mana yang diperlukan untuk melengkapi argumen? \n</p>\n\n\n",
+  :options
+  [[true "semua pengangkat galon itu orang yang berkecukupan. " 0]
+   [false "sebagian pengangkat galon itu orang yang berkecukupan. " 1]
+   [false "Argumen sudah lengkap." 2]
+   [false "semua orang yang berkecukupan itu pengangkat galon. " 3]
+   [false "sebagian orang yang berkecukupan itu pengangkat galon. " 4]],
+  :jawaban "A"},
+ :probelm-id "76e8569810e44d86b2ac5dafb53b9db7"}
+{:topic :verbal-logic,
+ :pembahasan
+ "\n\nArgumen ini tuh ga lengkap. Kenapa? <br>\n Soalnya ada hal yang gak disebutin, dengan anggapan 'ah kamu pasti ngerti' atau 'ah semua orang pasti tau lah', <br>\n padahal ga boleh gitu, karena jadinya asumsi. <br>\n Makanya perlu dilengkapin. Messi adalah seorang nelayan, jadi Messi laki-laki orang dewasa. <br>\n Berarti pertama kalian tau kalo Messi itu nelayan, <br>\n terus apa bisa langsung ambil kesimpulan Messi itu laki-laki orang dewasa? <br>\n Gak bisa ya, kurang infonya. Kalian harus tambahin apa nih? <br>\n Tambahin hubungan nelayan sama laki-laki orang dewasa, terus tinggal pilih hubungan nelayan sama laki-laki orang dewasa mana, <br>\n yang bikin kesimpulan Messi itu laki-laki orang dewasa jadi bener dan tidak tergoyahkan deh intinya. Gitu ya, selamat mencoba~ \n",
+ :soal
+ {:soal-text
+  "\n\nMessi adalah seorang nelayan, jadi Messi itu laki-laki orang dewasa <br>\n Kalimat mana yang diperlukan untuk melengkapi argumen? \n</p>\n\n\n",
+  :options
+  [[false "sebagian laki-laki orang dewasa itu nelayan. " 0]
+   [false "semua laki-laki orang dewasa itu nelayan. " 1]
+   [false "sebagian nelayan itu laki-laki orang dewasa. " 2]
+   [false "Argumen sudah lengkap." 3]
+   [true "semua nelayan itu laki-laki orang dewasa. " 4]],
+  :jawaban "E"},
+ :probelm-id "086bab0654214e3a920aa1c8952757d4"}
+{:topic :verbal-logic,
+ :pembahasan
+ "\n\nArgumen ini tuh ga lengkap. Kenapa? <br>\n Soalnya ada hal yang gak disebutin, dengan anggapan 'ah kamu pasti ngerti' atau 'ah semua orang pasti tau lah', <br>\n padahal ga boleh gitu, karena jadinya asumsi. <br>\n Makanya perlu dilengkapin. Leo adalah seorang satpam, jadi Leo orang yang terampil. <br>\n Berarti pertama kalian tau kalo Leo itu satpam, <br>\n terus apa bisa langsung ambil kesimpulan Leo itu orang yang terampil? <br>\n Gak bisa ya, kurang infonya. Kalian harus tambahin apa nih? <br>\n Tambahin hubungan satpam sama orang yang terampil, terus tinggal pilih hubungan satpam sama orang yang terampil mana, <br>\n yang bikin kesimpulan Leo itu orang yang terampil jadi bener dan tidak tergoyahkan deh intinya. Gitu ya, selamat mencoba~ \n",
+ :soal
+ {:soal-text
+  "\n\nLeo adalah seorang satpam, jadi Leo itu orang yang terampil <br>\n Kalimat manakah yang dibutuhkan untuk melengkapi argumen? \n</p>\n\n\n",
+  :options
+  [[false "semua orang yang terampil itu satpam. " 0]
+   [true "semua satpam itu orang yang terampil. " 1]
+   [false "sebagian orang yang terampil itu satpam. " 2]
+   [false "sebagian satpam itu orang yang terampil. " 3]
+   [false "Argumen sudah lengkap." 4]],
+  :jawaban "B"},
+ :probelm-id "6d9a2d41453e4c38875be66fb49a9e52"}
+{:topic :verbal-logic,
+ :pembahasan
+ "\n\nArgumen ini tuh ga lengkap. Kenapa? <br>\n Soalnya ada hal yang gak disebutin, dengan anggapan 'ah kamu pasti ngerti' atau 'ah semua orang pasti tau lah', <br>\n padahal ga boleh gitu, karena jadinya asumsi. <br>\n Makanya perlu dilengkapin. Tio adalah seorang kurir, jadi Tio kepala keluarga. <br>\n Berarti pertama kalian tau kalo Tio itu kurir, <br>\n terus apa bisa langsung ambil kesimpulan Tio itu kepala keluarga? <br>\n Gak bisa ya, kurang infonya. Kalian harus tambahin apa nih? <br>\n Tambahin hubungan kurir sama kepala keluarga, terus tinggal pilih hubungan kurir sama kepala keluarga mana, <br>\n yang bikin kesimpulan Tio itu kepala keluarga jadi bener dan tidak tergoyahkan deh intinya. Gitu ya, selamat mencoba~ \n",
+ :soal
+ {:soal-text
+  "\n\nTio adalah seorang kurir, jadi Tio itu kepala keluarga <br>\n Untuk melengkapi argumen, kalimat mana yang diperlukan? \n</p>\n\n\n",
+  :options
+  [[false "sebagian kurir itu kepala keluarga. " 0]
+   [true "semua kurir itu kepala keluarga. " 1]
+   [false "semua kepala keluarga itu kurir. " 2]
+   [false "Argumen sudah lengkap." 3]
+   [false "sebagian kepala keluarga itu kurir. " 4]],
+  :jawaban "B"},
+ :probelm-id "e4776eac63a94948b6cdacf003f1cfd1"}
+{:topic :verbal-logic,
+ :pembahasan
+ "\n\nArgumen ini tuh ga lengkap. Kenapa? <br>\n Soalnya ada hal yang gak disebutin, dengan anggapan 'ah kamu pasti ngerti' atau 'ah semua orang pasti tau lah', <br>\n padahal ga boleh gitu, karena jadinya asumsi. <br>\n Makanya perlu dilengkapin. Adit adalah seorang montir, jadi Adit kepala keluarga. <br>\n Berarti pertama kalian tau kalo Adit itu montir, <br>\n terus apa bisa langsung ambil kesimpulan Adit itu kepala keluarga? <br>\n Gak bisa ya, kurang infonya. Kalian harus tambahin apa nih? <br>\n Tambahin hubungan montir sama kepala keluarga, terus tinggal pilih hubungan montir sama kepala keluarga mana, <br>\n yang bikin kesimpulan Adit itu kepala keluarga jadi bener dan tidak tergoyahkan deh intinya. Gitu ya, selamat mencoba~ \n",
+ :soal
+ {:soal-text
+  "\n\nAdit adalah seorang montir, jadi Adit itu kepala keluarga <br>\n Kalimat manakah yang dibutuhkan untuk melengkapi argumen? \n</p>\n\n\n",
+  :options
+  [[true "semua montir itu kepala keluarga. " 0]
+   [false "sebagian montir itu kepala keluarga. " 1]
+   [false "sebagian kepala keluarga itu montir. " 2]
+   [false "Argumen sudah lengkap." 3]
+   [false "semua kepala keluarga itu montir. " 4]],
+  :jawaban "A"},
+ :probelm-id "ef4fae83285c46e1af5e1d307d9bc1a7"}
+{:topic :verbal-logic,
+ :pembahasan
+ "\n\nArgumen ini tuh ga lengkap. Kenapa? <br>\n Soalnya ada hal yang gak disebutin, dengan anggapan 'ah kamu pasti ngerti' atau 'ah semua orang pasti tau lah', <br>\n padahal ga boleh gitu, karena jadinya asumsi. <br>\n Makanya perlu dilengkapin. Aryo adalah seorang montir, jadi Aryo orang yang berpengalaman. <br>\n Berarti pertama kalian tau kalo Aryo itu montir, <br>\n terus apa bisa langsung ambil kesimpulan Aryo itu orang yang berpengalaman? <br>\n Gak bisa ya, kurang infonya. Kalian harus tambahin apa nih? <br>\n Tambahin hubungan montir sama orang yang berpengalaman, terus tinggal pilih hubungan montir sama orang yang berpengalaman mana, <br>\n yang bikin kesimpulan Aryo itu orang yang berpengalaman jadi bener dan tidak tergoyahkan deh intinya. Gitu ya, selamat mencoba~ \n",
+ :soal
+ {:soal-text
+  "\n\nAryo adalah seorang montir, jadi Aryo itu orang yang berpengalaman <br>\n Kalimat mana yang diperlukan untuk melengkapi argumen? \n</p>\n\n\n",
+  :options
+  [[false "Argumen sudah lengkap." 0]
+   [false "sebagian orang yang berpengalaman itu montir. " 1]
+   [true "semua montir itu orang yang berpengalaman. " 2]
+   [false "semua orang yang berpengalaman itu montir. " 3]
+   [false "sebagian montir itu orang yang berpengalaman. " 4]],
+  :jawaban "C"},
+ :probelm-id "0b9f418274b74f38bf8a69e27b5959d8"}
+{:topic :verbal-logic,
+ :pembahasan
+ "\n\nArgumen ini tuh ga lengkap. Kenapa? <br>\n Soalnya ada hal yang gak disebutin, dengan anggapan 'ah kamu pasti ngerti' atau 'ah semua orang pasti tau lah', <br>\n padahal ga boleh gitu, karena jadinya asumsi. <br>\n Makanya perlu dilengkapin. Leo adalah seorang ayah, jadi Leo tulang punggung keluarga. <br>\n Berarti pertama kalian tau kalo Leo itu ayah, <br>\n terus apa bisa langsung ambil kesimpulan Leo itu tulang punggung keluarga? <br>\n Gak bisa ya, kurang infonya. Kalian harus tambahin apa nih? <br>\n Tambahin hubungan ayah sama tulang punggung keluarga, terus tinggal pilih hubungan ayah sama tulang punggung keluarga mana, <br>\n yang bikin kesimpulan Leo itu tulang punggung keluarga jadi bener dan tidak tergoyahkan deh intinya. Gitu ya, selamat mencoba~ \n",
+ :soal
+ {:soal-text
+  "\n\nLeo adalah seorang ayah, jadi Leo itu tulang punggung keluarga <br>\n Kalimat manakah yang dibutuhkan untuk melengkapi argumen? \n</p>\n\n\n",
+  :options
+  [[true "semua ayah itu tulang punggung keluarga. " 0]
+   [false "sebagian ayah itu tulang punggung keluarga. " 1]
+   [false "semua tulang punggung keluarga itu ayah. " 2]
+   [false "Argumen sudah lengkap." 3]
+   [false "sebagian tulang punggung keluarga itu ayah. " 4]],
+  :jawaban "A"},
+ :probelm-id "e316eb30e8b142dc81b2785cd3792c37"}
+{:topic :verbal-logic,
+ :pembahasan
+ "\n\nArgumen ini tuh ga lengkap. Kenapa? <br>\n Soalnya ada hal yang gak disebutin, dengan anggapan 'ah kamu pasti ngerti' atau 'ah semua orang pasti tau lah', <br>\n padahal ga boleh gitu, karena jadinya asumsi. <br>\n Makanya perlu dilengkapin. Aulia adalah seorang supir, jadi Aulia laki-laki orang dewasa. <br>\n Berarti pertama kalian tau kalo Aulia itu supir, <br>\n terus apa bisa langsung ambil kesimpulan Aulia itu laki-laki orang dewasa? <br>\n Gak bisa ya, kurang infonya. Kalian harus tambahin apa nih? <br>\n Tambahin hubungan supir sama laki-laki orang dewasa, terus tinggal pilih hubungan supir sama laki-laki orang dewasa mana, <br>\n yang bikin kesimpulan Aulia itu laki-laki orang dewasa jadi bener dan tidak tergoyahkan deh intinya. Gitu ya, selamat mencoba~ \n",
+ :soal
+ {:soal-text
+  "\n\nAulia adalah seorang supir, jadi Aulia itu laki-laki orang dewasa <br>\n Untuk melengkapi argumen, kalimat mana yang diperlukan? \n</p>\n\n\n",
+  :options
+  [[false "Argumen sudah lengkap." 0]
+   [false "semua laki-laki orang dewasa itu supir. " 1]
+   [false "sebagian laki-laki orang dewasa itu supir. " 2]
+   [false "sebagian supir itu laki-laki orang dewasa. " 3]
+   [true "semua supir itu laki-laki orang dewasa. " 4]],
+  :jawaban "E"},
+ :probelm-id "410b4316c6d94ff8b698c2e92bebd9e8"}
+{:topic :verbal-logic,
+ :pembahasan
+ "\n\nArgumen ini tuh ga lengkap. Kenapa? <br>\n Soalnya ada hal yang gak disebutin, dengan anggapan 'ah kamu pasti ngerti' atau 'ah semua orang pasti tau lah', <br>\n padahal ga boleh gitu, karena jadinya asumsi. <br>\n Makanya perlu dilengkapin. Adit adalah seorang kurir, jadi Adit orang yang berkecukupan. <br>\n Berarti pertama kalian tau kalo Adit itu kurir, <br>\n terus apa bisa langsung ambil kesimpulan Adit itu orang yang berkecukupan? <br>\n Gak bisa ya, kurang infonya. Kalian harus tambahin apa nih? <br>\n Tambahin hubungan kurir sama orang yang berkecukupan, terus tinggal pilih hubungan kurir sama orang yang berkecukupan mana, <br>\n yang bikin kesimpulan Adit itu orang yang berkecukupan jadi bener dan tidak tergoyahkan deh intinya. Gitu ya, selamat mencoba~ \n",
+ :soal
+ {:soal-text
+  "\n\nAdit adalah seorang kurir, jadi Adit itu orang yang berkecukupan <br>\n Kalimat mana yang diperlukan untuk melengkapi argumen? \n</p>\n\n\n",
+  :options
+  [[false "Argumen sudah lengkap." 0]
+   [false "semua orang yang berkecukupan itu kurir. " 1]
+   [true "semua kurir itu orang yang berkecukupan. " 2]
+   [false "sebagian orang yang berkecukupan itu kurir. " 3]
+   [false "sebagian kurir itu orang yang berkecukupan. " 4]],
+  :jawaban "C"},
+ :probelm-id "70582cbdf75649bca699a995ed861cfc"}]

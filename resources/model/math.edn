@@ -1,0 +1,365 @@
+[{:topic :math,
+  :bahas "Gampang aja, tinggal pakai konsep perkalian biasa, ya",
+  :soal
+  {:soal-text "berapakah hasil dari 4 * 0",
+   :options [[false 1004 0] [false 104 1] [true 0 2] [false 54 3]],
+   :jawaban "C"},
+  :problem-id "238fc687571347229ddcf84b34f16c5e"}
+ {:topic :math,
+  :bahas "Gampang aja, tinggal pakai konsep perkalian biasa, ya",
+  :soal
+  {:soal-text "berapakah hasil dari 10 * 8",
+   :options [[false 1010 0] [false 110 1] [true 80 2] [false 60 3]],
+   :jawaban "C"},
+  :problem-id "fdd94ef85ea3409a8e602c06c4868ea6"}
+ {:topic :math,
+  :bahas "Gampang aja, tinggal pakai konsep perkalian biasa, ya",
+  :soal
+  {:soal-text "berapakah hasil dari 3 * 5",
+   :options [[true 15 0] [false 103 1] [false 53 2] [false 1003 3]],
+   :jawaban "A"},
+  :problem-id "769bc5bbd7b3482b8f39bc41eb2a00e0"}
+ {:topic :math,
+  :bahas "Gampang aja, tinggal pakai konsep perkalian biasa, ya",
+  :soal
+  {:soal-text "berapakah hasil dari 5 * 7",
+   :options [[false 55 0] [true 35 1] [false 1005 2] [false 105 3]],
+   :jawaban "B"},
+  :problem-id "9fcd1f7e067045d08f0c7bd3eeec7c69"}
+ {:topic :math,
+  :bahas "Gampang aja, tinggal pakai konsep perkalian biasa, ya",
+  :soal
+  {:soal-text "berapakah hasil dari 6 * 16",
+   :options [[false 56 0] [true 96 1] [false 1006 2] [false 106 3]],
+   :jawaban "B"},
+  :problem-id "ac5bcb5cd3614ff0a08a721c5449a514"}
+ {:topic :math,
+  :bahas "Gampang aja, tinggal pakai konsep perkalian biasa, ya",
+  :soal
+  {:soal-text "berapakah hasil dari 2 * 15",
+   :options [[true 30 0] [false 52 1] [false 102 2] [false 1002 3]],
+   :jawaban "A"},
+  :problem-id "074e7d5061a640c184d0f86cd66ce094"}
+ {:topic :math,
+  :bahas "Gampang aja, tinggal pakai konsep perkalian biasa, ya",
+  :soal
+  {:soal-text "berapakah hasil dari 4 * 16",
+   :options [[true 64 0] [false 54 1] [false 104 2] [false 1004 3]],
+   :jawaban "A"},
+  :problem-id "78ac516e9f754c8f8e6838f03d87cc74"}
+ {:topic :math,
+  :bahas "Gampang aja, tinggal pakai konsep perkalian biasa, ya",
+  :soal
+  {:soal-text "berapakah hasil dari 6 * 13",
+   :options [[false 1006 0] [false 56 1] [true 78 2] [false 106 3]],
+   :jawaban "C"},
+  :problem-id "46be69516dfa41adb77023d195adc6a1"}
+ {:topic :math,
+  :bahas "Gampang aja, tinggal pakai konsep perkalian biasa, ya",
+  :soal
+  {:soal-text "berapakah hasil dari 1 * 8",
+   :options [[true 8 0] [false 51 1] [false 1001 2] [false 101 3]],
+   :jawaban "A"},
+  :problem-id "607805a289904f86897fb38947e6ef7a"}
+ {:topic :math,
+  :bahas "Gampang aja, tinggal pakai konsep perkalian biasa, ya",
+  :soal
+  {:soal-text "berapakah hasil dari 6 * 9",
+   :options [[true 54 0] [false 1006 1] [false 56 2] [false 106 3]],
+   :jawaban "A"},
+  :problem-id "0527dfee6e89464c9b628cf3a23c9a35"}
+ {:topic :math,
+  :bahas "Ingat dalam segitiga siku-siku berlaku teorema pythagoras.",
+  :soal
+  {:soal-text
+   "Jika c adalah sisi miring dari sebuah segitiga siku-siku, manakan nilai c yang sesuai jika diketahui kedua sisi lainnya adalah 22 dan 120 ",
+   :options [[false 125 0] [false 200 1] [true 122 2] [false 130 3]],
+   :jawaban "C"},
+  :problem-id "5d671759bb74433887ce6c7089895575"}
+ {:topic :math,
+  :bahas "Gampang aja, kerjain secara bertahap ya.",
+  :soal
+  {:soal-text "jika umur kakak adalah 6 dan umur adek adalah setengah umur kakak, berapakah umur adek 6 tahun lagi?",
+   :options [[false 25 0] [false 6 1] [false 39 2] [true 9 3]],
+   :jawaban "D"},
+  :problem-id "8a4cfa31bc6b4dc282edb6c9240b88c9"}
+ {:topic :math,
+  :bahas "Gampang aja, kerjain secara bertahap ya.",
+  :soal
+  {:soal-text "jika umur kakak adalah 4 dan umur adek adalah setengah umur kakak, berapakah umur adek 6 tahun lagi?",
+   :options [[false 5 0] [false 4 1] [true 8 2] [false 36 3]],
+   :jawaban "C"},
+  :problem-id "8c3f853e5b0240c096b305719372703d"}
+ {:topic :math,
+  :bahas "Gampang aja, kerjain secara bertahap ya.",
+  :soal
+  {:soal-text "jika umur kakak adalah 6 dan umur adek adalah setengah umur kakak, berapakah umur adek 6 tahun lagi?",
+   :options [[true 9 0] [false 48 1] [false 42 2] [false 6 3]],
+   :jawaban "A"},
+  :problem-id "e61d4571ce13478481ae6687c74bd534"}
+ {:topic :math,
+  :bahas "Gampang aja, kerjain secara bertahap ya.",
+  :soal
+  {:soal-text "jika umur kakak adalah 8 dan umur adek adalah setengah umur kakak, berapakah umur adek 6 tahun lagi?",
+   :options [[true 10 0] [false 7 1] [false 23 2] [false 34 3]],
+   :jawaban "A"},
+  :problem-id "34ba0c27116847399c88f2ee48ee0676"}
+ {:topic :math,
+  :bahas "Gampang aja, kerjain secara bertahap ya.",
+  :soal
+  {:soal-text "jika umur kakak adalah 12 dan umur adek adalah setengah umur kakak, berapakah umur adek 6 tahun lagi?",
+   :options [[false 22 0] [true 12 1] [false 5 2] [false 9 3]],
+   :jawaban "B"},
+  :problem-id "0918c743dfdb46e8bd7dfaf8fa5c5554"}
+ {:topic :math,
+  :pembahasan
+  "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola aritmatika. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 11 dan b (beda) = U2 - U1 = 44 - 11 = 33. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal ditambah 33 aja. <br>\n Sehingga pola selanjutnya itu adalah 143. \n",
+  :soal
+  {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 11, 44, 77, 110, ... \n</p>\n\n\n",
+   :options [[false 154 0] [false 154 1] [true 143 2] [false 156 3]],
+   :jawaban "C"},
+  :probelm-id "2543d31feb0c48789f33b5c8729ca917"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola aritmatika. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 35 dan b (beda) = U2 - U1 = 54 - 35 = 19. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal ditambah 19 aja. <br>\n Sehingga pola selanjutnya itu adalah 111. \n",
+ :soal
+ {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 35, 54, 73, 92, ... \n</p>\n\n\n",
+  :options [[false 119 0] [false 123 1] [true 111 2] [false 113 3]],
+  :jawaban "C"},
+ :probelm-id "2b26210d28204144a67be709cba113a1"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola aritmatika. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 11 dan b (beda) = U2 - U1 = 23 - 11 = 12. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal ditambah 12 aja. <br>\n Sehingga pola selanjutnya itu adalah 59. \n",
+ :soal
+ {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 11, 23, 35, 47, ... \n</p>\n\n\n",
+  :options [[false 68 0] [true 59 1] [false 69 2] [false 72 3]],
+  :jawaban "B"},
+ :probelm-id "bc884db949e64d7f8016a2cd756e345c"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola aritmatika. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 51 dan b (beda) = U2 - U1 = 92 - 51 = 41. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal ditambah 41 aja. <br>\n Sehingga pola selanjutnya itu adalah 215. \n",
+ :soal
+ {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 51, 92, 133, 174, ... \n</p>\n\n\n",
+  :options [[true 215 0] [false 228 1] [false 221 2] [false 232 3]],
+  :jawaban "A"},
+ :probelm-id "2e2e9787c69845008d3d22174097b874"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola aritmatika. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 11 dan b (beda) = U2 - U1 = 61 - 11 = 50. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal ditambah 50 aja. <br>\n Sehingga pola selanjutnya itu adalah 211. \n",
+ :soal
+ {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 11, 61, 111, 161, ... \n</p>\n\n\n",
+  :options [[false 227 0] [false 228 1] [true 211 2] [false 222 3]],
+  :jawaban "C"},
+ :probelm-id "8bea9ca78da3445ab8215af64ec58d26"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola aritmatika. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 50 dan b (beda) = U2 - U1 = 69 - 50 = 19. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal ditambah 19 aja. <br>\n Sehingga pola selanjutnya itu adalah 126. \n",
+ :soal
+ {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 50, 69, 88, 107, ... \n</p>\n\n\n",
+  :options [[false 136 0] [true 126 1] [false 147 2] [false 141 3]],
+  :jawaban "B"},
+ :probelm-id "08eb696374344aaead7919207b620193"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola aritmatika. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 6 dan b (beda) = U2 - U1 = 47 - 6 = 41. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal ditambah 41 aja. <br>\n Sehingga pola selanjutnya itu adalah 170. \n",
+ :soal
+ {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 6, 47, 88, 129, ... \n</p>\n\n\n",
+  :options [[true 170 0] [false 174 1] [false 182 2] [false 176 3]],
+  :jawaban "A"},
+ :probelm-id "b7f485f44c6e4df7b7be87e1063c578a"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola aritmatika. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 44 dan b (beda) = U2 - U1 = 54 - 44 = 10. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal ditambah 10 aja. <br>\n Sehingga pola selanjutnya itu adalah 84. \n",
+ :soal
+ {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 44, 54, 64, 74, ... \n</p>\n\n\n",
+  :options [[false 87 0] [false 92 1] [false 93 2] [true 84 3]],
+  :jawaban "D"},
+ :probelm-id "5fb30fa73e9c40009131eb803cde2c9f"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola aritmatika. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 14 dan b (beda) = U2 - U1 = 18 - 14 = 4. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal ditambah 4 aja. <br>\n Sehingga pola selanjutnya itu adalah 30. \n",
+ :soal
+ {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 14, 18, 22, 26, ... \n</p>\n\n\n",
+  :options [[false 32 0] [false 47 1] [false 35 2] [true 30 3]],
+  :jawaban "D"},
+ :probelm-id "d7637622f3894cd19acbc8d4b03344db"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola aritmatika. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 51 dan b (beda) = U2 - U1 = 95 - 51 = 44. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal ditambah 44 aja. <br>\n Sehingga pola selanjutnya itu adalah 227. \n",
+ :soal
+ {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 51, 95, 139, 183, ... \n</p>\n\n\n",
+  :options [[false 236 0] [true 227 1] [false 238 2] [false 238 3]],
+  :jawaban "B"},
+ :probelm-id "73c0bf39fb51416ca5ea88bf148bd19d"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa menggunakan rumus dari keliling persegi panjang. <br>\n Dimana pada soal, diketahui bahwa panjang = 7 m dan lebar = 14 m. <br> \n Jadi untuk mengerjakannya, kita kalikan 6 kali Lani mengelilingi lapangan dengan keliling lapangan (2 x (7 + 14)). <br>\n Sehingga jarak yang ditempuh Lani adalah 252 m. \n",
+ :soal
+ {:soal-text
+  "\n\nSiLani lari pagi mengelilingi lapangan berbentuk persegi panjang sebanyak 6 kali. <br>\n Jika panjang lapangan sebesar 7 m dan lebar lapangan sebesar 14 m, <br>\n berapa meterkah jarak yang ditempuh Lani? \n</p>\n\n\n",
+  :options [[false 263 0] [false 260 1] [true 252 2] [false 269 3]],
+  :jawaban "C"},
+ :probelm-id "f7dc343d7ab74a668ca77506f26d7821"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa menggunakan rumus dari keliling persegi panjang. <br>\n Dimana pada soal, diketahui bahwa panjang = 15 m dan lebar = 12 m. <br> \n Jadi untuk mengerjakannya, kita kalikan 9 kali Sasa mengelilingi lapangan dengan keliling lapangan (2 x (15 + 12)). <br>\n Sehingga jarak yang ditempuh Sasa adalah 486 m. \n",
+ :soal
+ {:soal-text
+  "\n\nSiSasa lari pagi mengelilingi lapangan berbentuk persegi panjang sebanyak 9 kali. <br>\n Jika panjang lapangan sebesar 15 m dan lebar lapangan sebesar 12 m, <br>\n berapa meterkah jarak yang ditempuh Sasa? \n</p>\n\n\n",
+  :options [[true 486 0] [false 502 1] [false 497 2] [false 493 3]],
+  :jawaban "A"},
+ :probelm-id "5bb2794bbb3c441ba882c29c23e5a3b7"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa menggunakan rumus dari keliling persegi panjang. <br>\n Dimana pada soal, diketahui bahwa panjang = 11 m dan lebar = 9 m. <br> \n Jadi untuk mengerjakannya, kita kalikan 13 kali Badu mengelilingi lapangan dengan keliling lapangan (2 x (11 + 9)). <br>\n Sehingga jarak yang ditempuh Badu adalah 520 m. \n",
+ :soal
+ {:soal-text
+  "\n\nSiBadu lari pagi mengelilingi lapangan berbentuk persegi panjang sebanyak 13 kali. <br>\n Jika panjang lapangan sebesar 11 m dan lebar lapangan sebesar 9 m, <br>\n berapa meterkah jarak yang ditempuh Badu? \n</p>\n\n\n",
+  :options [[false 535 0] [true 520 1] [false 535 2] [false 524 3]],
+  :jawaban "B"},
+ :probelm-id "d964ecc124ec4c64a5ba772ba0684f6d"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa menggunakan rumus dari keliling persegi panjang. <br>\n Dimana pada soal, diketahui bahwa panjang = 13 m dan lebar = 16 m. <br> \n Jadi untuk mengerjakannya, kita kalikan 7 kali Badi mengelilingi lapangan dengan keliling lapangan (2 x (13 + 16)). <br>\n Sehingga jarak yang ditempuh Badi adalah 406 m. \n",
+ :soal
+ {:soal-text
+  "\n\nSiBadi lari pagi mengelilingi lapangan berbentuk persegi panjang sebanyak 7 kali. <br>\n Jika panjang lapangan sebesar 13 m dan lebar lapangan sebesar 16 m, <br>\n berapa meterkah jarak yang ditempuh Badi? \n</p>\n\n\n",
+  :options [[false 412 0] [false 422 1] [true 406 2] [false 419 3]],
+  :jawaban "C"},
+ :probelm-id "3edd8273f9b7430487be776416908808"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa menggunakan rumus dari keliling persegi panjang. <br>\n Dimana pada soal, diketahui bahwa panjang = 6 m dan lebar = 5 m. <br> \n Jadi untuk mengerjakannya, kita kalikan 8 kali Ari mengelilingi lapangan dengan keliling lapangan (2 x (6 + 5)). <br>\n Sehingga jarak yang ditempuh Ari adalah 176 m. \n",
+ :soal
+ {:soal-text
+  "\n\nSiAri lari pagi mengelilingi lapangan berbentuk persegi panjang sebanyak 8 kali. <br>\n Jika panjang lapangan sebesar 6 m dan lebar lapangan sebesar 5 m, <br>\n berapa meterkah jarak yang ditempuh Ari? \n</p>\n\n\n",
+  :options [[false 182 0] [false 189 1] [false 185 2] [true 176 3]],
+  :jawaban "D"},
+ :probelm-id "dd87e7e8d1b74e88a52f879d3a3e3486"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa menggunakan rumus dari keliling persegi panjang. <br>\n Dimana pada soal, diketahui bahwa panjang = 1 m dan lebar = 3 m. <br> \n Jadi untuk mengerjakannya, kita kalikan 8 kali Sasa mengelilingi lapangan dengan keliling lapangan (2 x (1 + 3)). <br>\n Sehingga jarak yang ditempuh Sasa adalah 64 m. \n",
+ :soal
+ {:soal-text
+  "\n\nSiSasa lari pagi mengelilingi lapangan berbentuk persegi panjang sebanyak 8 kali. <br>\n Jika panjang lapangan sebesar 1 m dan lebar lapangan sebesar 3 m, <br>\n berapa meterkah jarak yang ditempuh Sasa? \n</p>\n\n\n",
+  :options [[false 86 0] [false 65 1] [true 64 2] [false 76 3]],
+  :jawaban "C"},
+ :probelm-id "f54f7bf63092430ea9f4434b7012ccec"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa menggunakan rumus dari keliling persegi panjang. <br>\n Dimana pada soal, diketahui bahwa panjang = 5 m dan lebar = 8 m. <br> \n Jadi untuk mengerjakannya, kita kalikan 5 kali Hani mengelilingi lapangan dengan keliling lapangan (2 x (5 + 8)). <br>\n Sehingga jarak yang ditempuh Hani adalah 130 m. \n",
+ :soal
+ {:soal-text
+  "\n\nSiHani lari pagi mengelilingi lapangan berbentuk persegi panjang sebanyak 5 kali. <br>\n Jika panjang lapangan sebesar 5 m dan lebar lapangan sebesar 8 m, <br>\n berapa meterkah jarak yang ditempuh Hani? \n</p>\n\n\n",
+  :options [[true 130 0] [false 143 1] [false 144 2] [false 142 3]],
+  :jawaban "A"},
+ :probelm-id "ee3339cd18664ce59e6593c63bbfda03"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa menggunakan rumus dari keliling persegi panjang. <br>\n Dimana pada soal, diketahui bahwa panjang = 10 m dan lebar = 3 m. <br> \n Jadi untuk mengerjakannya, kita kalikan 3 kali Ali mengelilingi lapangan dengan keliling lapangan (2 x (10 + 3)). <br>\n Sehingga jarak yang ditempuh Ali adalah 78 m. \n",
+ :soal
+ {:soal-text
+  "\n\nSiAli lari pagi mengelilingi lapangan berbentuk persegi panjang sebanyak 3 kali. <br>\n Jika panjang lapangan sebesar 10 m dan lebar lapangan sebesar 3 m, <br>\n berapa meterkah jarak yang ditempuh Ali? \n</p>\n\n\n",
+  :options [[false 88 0] [false 87 1] [false 84 2] [true 78 3]],
+  :jawaban "D"},
+ :probelm-id "c3809dbc700f4d9393ab943061067081"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa menggunakan rumus dari keliling persegi panjang. <br>\n Dimana pada soal, diketahui bahwa panjang = 11 m dan lebar = 6 m. <br> \n Jadi untuk mengerjakannya, kita kalikan 7 kali Hani mengelilingi lapangan dengan keliling lapangan (2 x (11 + 6)). <br>\n Sehingga jarak yang ditempuh Hani adalah 238 m. \n",
+ :soal
+ {:soal-text
+  "\n\nSiHani lari pagi mengelilingi lapangan berbentuk persegi panjang sebanyak 7 kali. <br>\n Jika panjang lapangan sebesar 11 m dan lebar lapangan sebesar 6 m, <br>\n berapa meterkah jarak yang ditempuh Hani? \n</p>\n\n\n",
+  :options [[false 243 0] [true 238 1] [false 261 2] [false 244 3]],
+  :jawaban "B"},
+ :probelm-id "d405e7efcb6f413190d845554685e569"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa menggunakan rumus dari keliling persegi panjang. <br>\n Dimana pada soal, diketahui bahwa panjang = 3 m dan lebar = 10 m. <br> \n Jadi untuk mengerjakannya, kita kalikan 6 kali Badi mengelilingi lapangan dengan keliling lapangan (2 x (3 + 10)). <br>\n Sehingga jarak yang ditempuh Badi adalah 156 m. \n",
+ :soal
+ {:soal-text
+  "\n\nSiBadi lari pagi mengelilingi lapangan berbentuk persegi panjang sebanyak 6 kali. <br>\n Jika panjang lapangan sebesar 3 m dan lebar lapangan sebesar 10 m, <br>\n berapa meterkah jarak yang ditempuh Badi? \n</p>\n\n\n",
+  :options [[true 156 0] [false 170 1] [false 173 2] [false 164 3]],
+  :jawaban "A"},
+ :probelm-id "701855e12a814d12a505a21ec22711fa"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola geometri. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 3 dan r (rasio) = U2 / U1 = 9.0 / 3 = 3. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal dikalikan r, sebesar 3. <br>\n Sehingga pola selanjutnya itu adalah 81.0. \n",
+ :soal
+ {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 3, 9.0, 27.0, ... \n</p>\n\n\n",
+  :options [[false 87.0 0] [false 83.0 1] [true 81.0 2] [false 102.0 3]],
+  :jawaban "C"},
+ :probelm-id "d1514b2ab4944db7aa22e0d31eb8579f"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola geometri. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 2 dan r (rasio) = U2 / U1 = 4.0 / 2 = 2. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal dikalikan r, sebesar 2. <br>\n Sehingga pola selanjutnya itu adalah 16.0. \n",
+ :soal
+ {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 2, 4.0, 8.0, ... \n</p>\n\n\n",
+  :options [[true 16.0 0] [false 32.0 1] [false 36.0 2] [false 19.0 3]],
+  :jawaban "A"},
+ :probelm-id "109c0218e3e04ce7a9392081693faed5"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola geometri. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 2 dan r (rasio) = U2 / U1 = 4.0 / 2 = 2. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal dikalikan r, sebesar 2. <br>\n Sehingga pola selanjutnya itu adalah 16.0. \n",
+ :soal
+ {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 2, 4.0, 8.0, ... \n</p>\n\n\n",
+  :options [[false 24.0 0] [false 34.0 1] [true 16.0 2] [false 19.0 3]],
+  :jawaban "C"},
+ :probelm-id "1ddb58c6eb1742e09140d347ef38ae4c"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola geometri. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 6 dan r (rasio) = U2 / U1 = 12.0 / 6 = 2. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal dikalikan r, sebesar 2. <br>\n Sehingga pola selanjutnya itu adalah 48.0. \n",
+ :soal
+ {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 6, 12.0, 24.0, ... \n</p>\n\n\n",
+  :options [[true 48.0 0] [false 66.0 1] [false 58.0 2] [false 56.0 3]],
+  :jawaban "A"},
+ :probelm-id "3f81b68819694c42ba7a29d84a9ac714"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola geometri. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 6 dan r (rasio) = U2 / U1 = 18.0 / 6 = 3. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal dikalikan r, sebesar 3. <br>\n Sehingga pola selanjutnya itu adalah 162.0. \n",
+ :soal
+ {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 6, 18.0, 54.0, ... \n</p>\n\n\n",
+  :options [[false 176.0 0] [true 162.0 1] [false 171.0 2] [false 185.0 3]],
+  :jawaban "B"},
+ :probelm-id "202b2b0efff140548a0f8940120dd799"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola geometri. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 6 dan r (rasio) = U2 / U1 = 12.0 / 6 = 2. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal dikalikan r, sebesar 2. <br>\n Sehingga pola selanjutnya itu adalah 48.0. \n",
+ :soal
+ {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 6, 12.0, 24.0, ... \n</p>\n\n\n",
+  :options [[false 54.0 0] [false 49.0 1] [true 48.0 2] [false 55.0 3]],
+  :jawaban "C"},
+ :probelm-id "c7cfeb1c45b4486eac6fb87bb2afd4fc"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola geometri. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 7 dan r (rasio) = U2 / U1 = 21.0 / 7 = 3. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal dikalikan r, sebesar 3. <br>\n Sehingga pola selanjutnya itu adalah 189.0. \n",
+ :soal
+ {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 7, 21.0, 63.0, ... \n</p>\n\n\n",
+  :options [[false 201.0 0] [false 197.0 1] [true 189.0 2] [false 193.0 3]],
+  :jawaban "C"},
+ :probelm-id "ded93d7b59784ed8bc190faf3bf5fb4d"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola geometri. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 2 dan r (rasio) = U2 / U1 = 4.0 / 2 = 2. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal dikalikan r, sebesar 2. <br>\n Sehingga pola selanjutnya itu adalah 16.0. \n",
+ :soal
+ {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 2, 4.0, 8.0, ... \n</p>\n\n\n",
+  :options [[false 29.0 0] [false 16.0 1] [false 25.0 2] [true 16.0 3]],
+  :jawaban "D"},
+ :probelm-id "eeec6c8c595d4c57ae72847827f41518"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola geometri. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 3 dan r (rasio) = U2 / U1 = 6.0 / 3 = 2. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal dikalikan r, sebesar 2. <br>\n Sehingga pola selanjutnya itu adalah 24.0. \n",
+ :soal
+ {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 3, 6.0, 12.0, ... \n</p>\n\n\n",
+  :options [[false 37.0 0] [true 24.0 1] [false 38.0 2] [false 26.0 3]],
+  :jawaban "B"},
+ :probelm-id "fba44077487b43cb8cd18ff82ac47b5b"}
+{:topic :math,
+ :pembahasan
+ "\n\nUntuk ngerjain ini, kita bisa pakai konsep pola geometri. <br>\n Dimana untuk pola ini, a atau U1 (bilangan pertama) = 5 dan r (rasio) = U2 / U1 = 10.0 / 5 = 2. <br> \n Jadi untuk ke bilangan selanjutnya, tinggal dikalikan r, sebesar 2. <br>\n Sehingga pola selanjutnya itu adalah 40.0. \n",
+ :soal
+ {:soal-text "\n\nCoba, bisa nggak lanjutin pola bilangan ini? <br>\n 5, 10.0, 20.0, ... \n</p>\n\n\n",
+  :options [[true 40.0 0] [false 51.0 1] [false 49.0 2] [false 43.0 3]],
+  :jawaban "A"},
+ :probelm-id "617a97ea0cc14e65932f033e723c6e67"}
+ ]
+

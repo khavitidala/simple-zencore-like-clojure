@@ -1,0 +1,135 @@
+; This is the Calva evaluation results output window.
+; TIPS: The keyboard shortcut `ctrl+alt+o o` shows and focuses this window
+;   when connected to a REPL session.
+; Please see https://calva.io/output/ for more info.
+; Happy coding! ♥️
+
+; Jacking in...
+; Starting Jack-in Terminal: cmd.exe /d /c lein update-in :dependencies conj [nrepl,"0.9.0"] -- update-in :plugins conj [cider/cider-nrepl,"0.28.5"] -- update-in [:repl-options,:nrepl-middleware] conj '["cider.nrepl/cider-middleware"]' -- with-profile +dev repl :headless
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉user꞉>  ; Use `alt+enter` to evaluate
+; Jack-in done.
+clj꞉user꞉> 
+nil
+clj꞉zencore.base꞉> 
+#'zencore.base/load-data
+clj꞉zencore.base꞉> 
+#'zencore.base/config
+clj꞉zencore.base꞉> 
+#'zencore.base/options
+clj꞉zencore.base꞉> 
+#'zencore.base/get-jenis-from-config
+clj꞉zencore.base꞉> 
+#'zencore.base/get-num-soal
+clj꞉zencore.base꞉> 
+#'zencore.base/get-model
+clj꞉zencore.base꞉> 
+#'zencore.base/get-len-of-type
+clj꞉zencore.base꞉> 
+#'zencore.base/unique-random-numbers
+clj꞉zencore.base꞉> 
+#'zencore.base/generate-idx-soal
+clj꞉zencore.base꞉> (take (get-num-soal 0) (generate-idx-soal 0))
+clj꞉zencore.base꞉> (take (get-num-soal 0) (generate-idx-soal 0))
+clj꞉zencore.base꞉> (take 2 (generate-idx-soal 0))
+; nREPL Connection was closed
+; Jacking in...
+; Starting Jack-in Terminal: cmd.exe /d /c lein update-in :dependencies conj [nrepl,"0.9.0"] -- update-in :plugins conj [cider/cider-nrepl,"0.28.5"] -- update-in [:repl-options,:nrepl-middleware] conj '["cider.nrepl/cider-middleware"]' -- with-profile +dev repl :headless
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉user꞉> 
+; Jack-in done.
+clj꞉user꞉> 
+nil
+clj꞉zencore.base꞉> 
+#'zencore.base/load-data
+clj꞉zencore.base꞉> 
+#'zencore.base/config
+clj꞉zencore.base꞉> config
+{:jenis
+ [{:text "Matematika", :numsoal 8, :url "/soal?type=0&ids=0", :model "model/math.edn"}
+  {:text "Verbal Logic", :numsoal 8, :url "/soal?type=1&ids=0", :model "model/verbal.edn"}
+  {:text "Bahasa Inggris", :numsoal 8, :url "/soal?type=2&ids=0", :model "model/english.edn"}]}
+clj꞉zencore.base꞉> 
+#'zencore.base/options
+clj꞉zencore.base꞉> 
+#'zencore.base/get-jenis-from-config
+clj꞉zencore.base꞉> 
+#'zencore.base/get-num-soal
+clj꞉zencore.base꞉> 
+#'zencore.base/get-model
+clj꞉zencore.base꞉> 
+#'zencore.base/get-len-of-type
+clj꞉zencore.base꞉> 
+#'zencore.base/unique-random-numbers
+clj꞉zencore.base꞉> (+ 1 6)
+; nREPL Connection was closed
+; Jacking in...
+; Starting Jack-in Terminal: cmd.exe /d /c lein update-in :dependencies conj [nrepl,"0.9.0"] -- update-in :plugins conj [cider/cider-nrepl,"0.28.5"] -- update-in [:repl-options,:nrepl-middleware] conj '["cider.nrepl/cider-middleware"]' -- with-profile +dev repl :headless
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉user꞉> 
+; Jack-in done.
+clj꞉user꞉> (rand-int 3)
+0
+clj꞉user꞉> (repeatedly #(rand-int 3))
+(0 0 0 0 1 2 1 0 2 1 1 0 0 0 0 0 2 0 0 0 1 1 0 1 2 2 1 2 2 2 0 2 1 1 0 1 2 0 1 0 0 2 2 0 0 2 0 2 2 0 ...)
+clj꞉zencore.base꞉> (take 8 (repeatedly #(rand-int 8)))
+(2 1 3 5 1 3 1 5)
+clj꞉zencore.base꞉> 
+nil
+clj꞉zencore.base꞉> 
+#'zencore.base/load-data
+clj꞉zencore.base꞉> 
+#'zencore.base/config
+clj꞉zencore.base꞉> 
+#'zencore.base/options
+clj꞉zencore.base꞉> 
+#'zencore.base/get-jenis-from-config
+clj꞉zencore.base꞉> 
+#'zencore.base/get-num-soal
+clj꞉zencore.base꞉> 
+#'zencore.base/get-model
+clj꞉zencore.base꞉> 
+#'zencore.base/get-len-of-type
+clj꞉zencore.base꞉> 
+#'zencore.base/unique-random-numbers
+clj꞉zencore.base꞉> 
+#'zencore.base/generate-idx-soal
+clj꞉zencore.base꞉> 
+#'zencore.base/bulk-session
+clj꞉zencore.base꞉> 
+#'zencore.base/soft-reset
+clj꞉zencore.base꞉> 
+#'zencore.base/query-param-check
+clj꞉zencore.base꞉> 
+#'zencore.base/basehtml
+clj꞉zencore.base꞉> bulk-session
+{:user
+ [{:idx-soal (20 27 1 24 4 15 21 22), :skor 0, :jawaban [], :total 0}
+  {:idx-soal (7 1 24 39 4 15 31 32), :skor 0, :jawaban [], :total 0}
+  {:idx-soal (0 1 24 4 15 21 33 13), :skor 0, :jawaban [], :total 0}]}
+clj꞉zencore.base꞉> 
+; nREPL Connection was closed
