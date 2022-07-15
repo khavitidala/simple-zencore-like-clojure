@@ -1,0 +1,1 @@
+web: java $JVM_OPTS -cp target/zencore-standalone.jar clojure.main -m zencore.web
